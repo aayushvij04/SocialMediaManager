@@ -1,4 +1,4 @@
-#Social Media Management System - Detailed Project Explanation
+Social Media Management System - Detailed Project Explanation
 ==============================================================
 
 DISCLAIMER : 
